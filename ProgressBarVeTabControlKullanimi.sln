@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBarVeTabControlKullanimi", "ProgressBarVeTabControlKullanimi.csproj", "{A1F51FA4-AEFD-4CB6-93D6-F133E4C8B3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F51FA4-AEFD-4CB6-93D6-F133E4C8B3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F51FA4-AEFD-4CB6-93D6-F133E4C8B3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F51FA4-AEFD-4CB6-93D6-F133E4C8B3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F51FA4-AEFD-4CB6-93D6-F133E4C8B3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8FB254-4567-4514-BABE-FC15517927E1}
+	EndGlobalSection
+EndGlobal
